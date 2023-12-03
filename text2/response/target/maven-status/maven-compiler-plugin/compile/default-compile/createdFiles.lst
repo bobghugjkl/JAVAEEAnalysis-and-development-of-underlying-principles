@@ -1,0 +1,4 @@
+com\kuang\servlet\ImageServlet.class
+com\kuang\servlet\RequestText.class
+com\kuang\servlet\FileServlet.class
+com\kuang\servlet\RedirectServlet.class
